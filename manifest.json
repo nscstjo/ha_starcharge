@@ -1,0 +1,12 @@
+{
+    "domain": "starcharge",
+    "name": "StarCharge for China",
+    "version": "1.0.0",
+    "codeowners": [],
+    "dependencies": [],
+    "documentation": "https://starcharge.raito.win/docs/",
+    "integration_type": "device",
+    "iot_class": "cloud_polling",
+    "config_flow": true,
+    "requirements": []
+}
